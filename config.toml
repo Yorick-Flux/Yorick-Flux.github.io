@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Yorick's Dev Log"
+theme = "fuji"
+publishDir = 'docs'
